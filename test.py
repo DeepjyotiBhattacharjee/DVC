@@ -17,6 +17,11 @@ dataset = [
          'name':'Caspy',
          'age':6,
          'city':'Bangalore'
+     },
+     {
+         'name':'Sunny',
+         'age':40,
+         'city':'Bhopal'
      }
 ]
 

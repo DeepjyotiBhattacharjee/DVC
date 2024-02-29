@@ -12,6 +12,12 @@ dataset = [
     {'name':'Krish',
      'age':35,
      'city':'Bangalore'},
+
+     {
+         'name':'Caspy',
+         'age':6,
+         'city':'Bangalore'
+     }
 ]
 
 df = pd.DataFrame(dataset)
